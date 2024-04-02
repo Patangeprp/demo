@@ -2,4 +2,4 @@
 This is my first git repository.
 <br>
 
-Author - Prathmesh Patange
+Author - Prathmesh_Patange
